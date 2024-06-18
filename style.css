@@ -1,0 +1,28 @@
+#Vex {
+    font-size: 30px;
+    font-weight: 300;
+    padding-left: 144px;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    float: left;
+}
+ul{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+    padding-left: 800px;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    color: black ;
+    font-weight: bold;
+}
+a:hover{
+    text-decoration: underline black;
+}
