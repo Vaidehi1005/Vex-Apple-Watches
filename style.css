@@ -77,8 +77,10 @@ button {
     font-size: 24px;
     border-radius: 50px;
     padding: 20px;
+    font-weight: 700;
     border: none;
     box-shadow: 10px 10px 30px rgba(255, 166, 0, 0.575);
+    cursor: pointer;
 }
 
 #two {

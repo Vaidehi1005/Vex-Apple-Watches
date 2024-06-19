@@ -1,0 +1,94 @@
+#top {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    word-spacing: 7px;
+    font-size: 50px;
+}
+
+#w6 {
+    padding-left: 200px;
+    float: left;
+    padding-top: 75px;
+    width: 350px;
+}
+
+#c2 {
+    padding-top: 150px;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 700px;
+    word-spacing: 7px;
+    font-size: 40px;
+    color: black;
+}
+
+#c3 {
+    padding-left: 700px;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    width: 30%;
+    text-align: justify;
+    font-size: 20px;
+    color: rgba(0, 0, 0,);
+    word-spacing: 10px;
+}
+
+#d {
+    margin-left: 700px;
+}
+
+#but {
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 15px;
+    background-color: #ffa600f5;
+    opacity: 0.8;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(255, 166, 0, 0.685);
+}
+
+#c4 {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    word-spacing: 7px;
+    font-size: 40px;
+    float: left;
+    margin-left: -400px;
+    padding-top: 100px;
+    color: black;
+}
+
+#c5 {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    width: 30%;
+    text-align: justify;
+    font-size: 20px;
+    color: rgba(0, 0, 0);
+    word-spacing: 10px;
+    display: block;
+    padding-top: 200px;
+    padding-left: 150px;
+}
+
+#e {
+    padding-left: 140px;
+}
+
+#img2 {
+    float: right;
+    margin-top: -350px;
+    padding-right: 250px;
+    height: 400px;
+}
