@@ -9,13 +9,13 @@
     float: left;
 }
 
-ul {
+#ab {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     float: left;
     padding-left: 800px;
 }
 
-li {
+.nav {
     display: inline;
     list-style: none;
     padding: 15px;
@@ -82,23 +82,9 @@ button {
 }
 
 #two {
-    float:right;
+    float: right;
     padding-top: 100px;
-   padding-right: 500px;
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-right: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
 }
-
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 24
-}
-#watch{
-    float: left;
-    padding-top: 250px;
-    padding-left: 250px;
-}
-

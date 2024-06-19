@@ -1,0 +1,50 @@
+
+#v1 {
+    list-style: none;
+    width: 30%;
+    text-wrap: wrap;
+    
+
+}
+
+#watch {
+    margin-bottom: -20px;
+    margin-left: -10px;
+}
+
+#bell {
+    margin-bottom: -20px;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+
+#cart {
+    margin-bottom: -20px;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+
+#fea1 {
+    float: left;
+    padding-left: 30px;
+    
+}
+
+#fea2 {
+    display: flex;
+}
+
+#v2 {
+    list-style: none;
+    width: 70%;
+}
+#w1{
+    float: right;
+    padding-right: 650px;
+    margin-top: -500px;
+}
+.f1{
+    border: 2px solid white;
+    display: block;
+    
+}
