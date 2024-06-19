@@ -1,0 +1,30 @@
+#w2{
+    padding-left: 300px;
+    padding-top: 120px;
+    height: 600px;
+    
+}
+#content{
+    float: right;
+padding-right: 200px;  
+padding-top: 200px;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
+#b{ 
+  width: 30%;
+  float: left;
+  padding-left: 770px;
+  margin-top: -400px;
+  font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+
+}
+#pr{
+    background-color: hsla(39, 100%, 50%, 0.925);
+    border: 2px solid white;
+    
+}
