@@ -39,7 +39,7 @@ a:hover {
     float: left;
 }
 
-h1 {
+#t {
     float: right;
     font-size: 60px;
     padding-right: 250px;
@@ -64,17 +64,23 @@ h1 {
     width: 50%;
     text-align: justify;
 }
-#button{
-    float:left;
+
+#button {
+    float: left;
     padding-left: 200px;
-    
+
 }
-button{
-background-color:rgb(228, 172, 68);
-color: white;
-font-size: 24px;
-border-radius: 50px;
-padding: 20px;
-border: none;
-box-shadow: 10px 10px 30px  rgba(255, 166, 0, 0.575) ;
+
+button {
+    background-color: rgb(228, 172, 68);
+    color: white;
+    font-size: 24px;
+    border-radius: 50px;
+    padding: 20px;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(255, 166, 0, 0.575);
+}
+
+#two {
+    float: left;
 }
