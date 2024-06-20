@@ -126,15 +126,17 @@ button {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
 }
-#j{
+
+#j {
     padding-left: 450px;
 }
-#d3{
+
+#d3 {
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
     height: 50px;
     padding-left: 20px;
     padding-bottom: 45px;
     margin-left: -5px;
-    padding-top:10px ;
+    padding-top: 10px;
 }

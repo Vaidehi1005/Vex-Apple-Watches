@@ -1,4 +1,4 @@
-#re{
+#re {
     background-color: rgb(228, 172, 68);
     color: white;
     font-size: 18px;
@@ -11,12 +11,14 @@
 
 
 }
-#f1{
+
+#f1 {
     padding-left: 650px;
     padding-top: 600px;
-    padding-bottom:200px;
+    padding-bottom: 200px;
 }
-#rt{
+
+#rt {
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: lighter;
@@ -24,12 +26,14 @@
     font-size: 22px;
     padding-left: 50px;
     color: rgba(0, 0, 0, 0.438);
-    
+
 }
-#rt:hover{
+
+#rt:hover {
     text-decoration: underline;
 }
-footer{
+
+footer {
     background-color: rgba(128, 128, 128, 0.226);
     text-align: center;
     float: left;
@@ -37,12 +41,14 @@ footer{
     padding-top: 40px;
     height: 255px;
 }
-#we{
+
+#we {
     list-style: none;
     padding-left: 600px;
 
 }
-#o{
+
+#o {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.973);
     padding-left: 450px;
@@ -52,16 +58,18 @@ footer{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-#o:hover{
+
+#o:hover {
     text-decoration: underline;
 }
-.to{
+
+.to {
     text-align: center;
     clear: both;
     padding-top: 20px;
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight:1%;
+    font-weight: 1%;
     font-style: normal;
     padding-left: 60px;
     color: rgba(0, 0, 0, 0.301);
