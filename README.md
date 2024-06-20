@@ -1,3 +1,3 @@
 # Vex Apple Watches
-This is webpage about the Vex Apple Watches and it is created with HTML and CSS files.
+This is landing page about Vex Apple Watches using HTML and CSS.
  
