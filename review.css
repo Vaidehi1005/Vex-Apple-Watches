@@ -1,0 +1,43 @@
+#d5{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    font-size: 45px;
+}
+#v{
+    padding-left: 300px;
+    padding-top: 50px;
+}
+li{
+    list-style: none;
+    padding-left: 160px;
+    width: 75%;
+    font-size: 20px; 
+    text-align: justify;
+    text-align-last: center;
+    word-spacing: 5px;
+}
+#p{
+    padding-top: 35px;
+    padding-left: 300px;
+}
+#name{
+    margin-top: 1px;
+    padding-left: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: -30px;
+    padding-left: 270px;
+    font-size: 15px;
+}
+.part{
+float: left;
+width: 30%;
+box-sizing: border-box;
+}
