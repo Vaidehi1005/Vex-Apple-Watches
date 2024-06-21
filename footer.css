@@ -8,8 +8,6 @@
     border: none;
     box-shadow: 10px 10px 30px rgba(255, 166, 0, 0.575);
     cursor: pointer;
-
-
 }
 
 #f1 {
@@ -17,7 +15,6 @@
     padding-top: 600px;
     padding-bottom: 200px;
 }
-
 #rt {
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
@@ -26,13 +23,10 @@
     font-size: 22px;
     padding-left: 50px;
     color: rgba(0, 0, 0, 0.438);
-
 }
-
 #rt:hover {
     text-decoration: underline;
 }
-
 footer {
     background-color: rgba(128, 128, 128, 0.226);
     text-align: center;
@@ -41,13 +35,10 @@ footer {
     padding-top: 40px;
     height: 255px;
 }
-
 #we {
     list-style: none;
     padding-left: 600px;
-
 }
-
 #o {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.973);
@@ -56,13 +47,10 @@ footer {
     float: left;
     font-size: 18px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }
-
 #o:hover {
     text-decoration: underline;
 }
-
 .to {
     text-align: center;
     clear: both;
