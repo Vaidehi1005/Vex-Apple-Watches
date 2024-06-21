@@ -4,14 +4,12 @@
     word-spacing: 7px;
     font-size: 50px;
 }
-
 #w6 {
     padding-left: 200px;
     float: left;
     padding-top: 75px;
     width: 350px;
 }
-
 #c2 {
     padding-top: 150px;
     font-family: "Josefin Sans", sans-serif;
@@ -23,7 +21,6 @@
     font-size: 40px;
     color: black;
 }
-
 #c3 {
     padding-left: 700px;
     font-family: "Josefin Sans", sans-serif;
@@ -36,11 +33,9 @@
     color: rgba(0, 0, 0, );
     word-spacing: 10px;
 }
-
 #d {
     margin-left: 700px;
 }
-
 #but {
     padding: 20px;
     border-radius: 30px;
@@ -53,7 +48,6 @@
     border: none;
     box-shadow: 10px 10px 30px rgba(255, 166, 0, 0.685);
 }
-
 #c4 {
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
@@ -66,7 +60,6 @@
     padding-top: 100px;
     color: black;
 }
-
 #c5 {
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
@@ -81,11 +74,9 @@
     padding-top: 200px;
     padding-left: 150px;
 }
-
 #e {
     padding-left: 140px;
 }
-
 #img2 {
     float: right;
     margin-top: -350px;
